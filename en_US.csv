@@ -1,0 +1,67 @@
+"%s result(s)","%s result(s)"
+"%s shop(s) nearby","%s shop(s) nearby"
+"* Required Fields","* Required Fields"
+"Above this limit, the list of stores will be not display","Above this limit, the list of stores will be not display"
+"Add Special Opening Hours","Add Special Opening Hours"
+"Apply for retailers","Apply for retailers"
+"Back to results", "Back to results"
+"Choose this store","Choose this store"
+"City, Zipcode, Department, ...","City, Zipcode, Department, ..."
+"Closed (%1)","Closed (%1)"
+"Closing soon (%1)","Closing soon (%1)"
+"Contact %1","Contact %1"
+"Contact form cannot be empty","Contact form cannot be empty"
+"Contact mail cannot be empty","Contact mail cannot be empty"
+"Contact Us","Contact Us"
+"Double-click on an opening hour range to delete it.","Double-click on an opening hour range to delete it."
+"Find a store ...","Find a store ..."
+"Find a store :","Find a store :"
+"Geolocalize me","Geolocalize me"
+"Go there","Go there"
+"Go to Home Page","Go to Home Page"
+"Maximum number of visible stores","Maximum number of visible stores"
+"My store : %s","My store : %s"
+"Name cannot be empty","Name cannot be empty"
+"Narrow your search to see store details","Narrow your search to see store details"
+"Open Today (%1)","Open Today (%1)"
+"Open Today","Open Today"
+"Opening Hours","Opening Hours"
+"Our stores","Our stores"
+"Phone Number","Phone Number"
+"Retailer url_key ""%1"" already exists.","Retailer url_key ""%1"" already exists."
+"Shop Search","Shop Search"
+"Shops nearby", "Shops nearby"
+"Special Opening Hours","Special Opening Hours"
+"Store Address","Store Address"
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon."
+"today","today"
+"Unable to retrieve retailer informations","Unable to retrieve retailer informations"
+"Unable to validate form","Unable to validate form"
+"until","until"
+"View all","View all"
+"View Shop Page","View Shop Page"
+"We are sorry, an error occured when switching retailer.","We are sorry, an error occured when switching retailer."
+"We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know."
+"What’s on your mind?","What’s on your mind?"
+"Write Us","Write Us"
+Address,Address
+City,City
+Close,Close
+Closed,Closed
+Contact,Contact
+Country,Country
+Details,Details
+Email,Email
+Fax,Fax
+Home,Home
+Latitude,Latitude
+Longitude,Longitude
+Mail,Mail
+Name,Name
+Opened,Opened
+Postcode,Postcode
+Search,Search
+Street,Street
+Submit,Submit
+Tel,Tel
+Telephone,Telephone
